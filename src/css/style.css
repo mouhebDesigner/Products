@@ -1,0 +1,18 @@
+body{
+    height: 100%;
+}
+.NavLink{
+    font-size: 20px;
+}
+
+.NavLink:visited{
+    color: white;
+}
+.NavLink:active{
+    color: white;
+}
+
+.Navbar{
+    background: #33b5e5!important;
+    margin-bottom:  10px;
+}
